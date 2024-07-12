@@ -12,3 +12,9 @@ div - coloca um texto embaixo do outro
 ## CSS
 
 - Cascading Style Sheet (folha de estilo em cascata)
+
+Sempre vai colocar em prioridade o ultimo no final do documento
+
+## JavaScript
+
+(sempre é mantida pelo grupo ECMAScript trazendo inovações)

@@ -18,3 +18,17 @@ Sempre vai colocar em prioridade o ultimo no final do documento
 ## JavaScript
 
 (sempre é mantida pelo grupo ECMAScript trazendo inovações)
+
+Formas de mostrar uma função:
+
+normal
+```
+function(){
+}
+```
+
+arroy funcion
+```
+() => {}
+
+```

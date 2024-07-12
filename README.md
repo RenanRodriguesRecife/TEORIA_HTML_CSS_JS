@@ -27,7 +27,7 @@ function(){
 }
 ```
 
-arroy funcion
+arrow funcion
 ```
 () => {}
 
